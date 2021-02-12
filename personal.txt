@@ -1,4 +1,5 @@
-Name:Pappala Sandhya
+First Name:Sandhya
+Last Name:Pappala
 Gender:Female
 Date of Birth:jun22
 Age:22
